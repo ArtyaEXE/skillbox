@@ -32,7 +32,7 @@ body {
 
 
 .hero {
-    background-image: url(/img/main-backgound.jpg);
+    background-image: url(../img/main-backgound.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -40,7 +40,7 @@ body {
 .hero__container {
     padding-top: 130px;
     padding-bottom: 130px;
-    background-image: url(/img/Group\ 95.svg);
+    background-image: url(../img/group.svg);
     background-repeat: no-repeat;
     background-position: 95% 45%;
     background-size: 50%;
